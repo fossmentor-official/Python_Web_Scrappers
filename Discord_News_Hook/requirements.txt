@@ -1,0 +1,14 @@
+aiohttp
+async-timeout
+attrs
+beautifulsoup4
+certifi
+chardet
+dhooks
+idna
+multidict
+requests
+soupsieve
+urllib3
+yarl
+lxml
